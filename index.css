@@ -1,0 +1,61 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	top: 0%;
+	left: 0%;
+	background-image: url(funky-lines.png);
+	margin: 0 auto;
+}
+
+header {
+	background-color: #e6154d;
+	text-align: center;
+}
+
+#moi {
+
+	float: right;
+	margin-top: -3.5%;
+	margin-right: 2%;
+	border: 1px solid;
+	border-radius: 0.4em;
+}
+
+#moi h3 {
+	box-sizing: border-box;
+	margin-top: 0%;
+	background-color: red;
+}
+
+#profile {
+	width: 24%;
+}
+
+h2 {
+	text-align: center;
+}
+
+.cent {
+	display: inline-flex;
+}
+
+.cent div {
+	border: 1px solid;
+	width: 33%;
+	margin-left: 10%;
+	border-radius: 2%;
+}
+
+.cent h3 {
+	background-color: yellow;
+	box-sizing: border-box;
+	margin-top: 0%;
+}
+
+li {
+	list-style: none;
+}
